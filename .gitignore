@@ -1,7 +1,7 @@
-# generated files
+# Generated files
 bin/
 
-# Eclipse project files
+# Eclipse files
 .classpath
 .project
 .settings/
